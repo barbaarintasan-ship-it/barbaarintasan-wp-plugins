@@ -1,0 +1,2437 @@
+{
+  "exportDate": "2026-02-09T14:39:47.244Z",
+  "totalUsers": 171,
+  "usersWithPassword": 133,
+  "usersWithEnrollments": 23,
+  "users": [
+    {
+      "id": "b48bd7e0-0801-49f4-ae4a-aa7a66a9fbb7",
+      "email": "barbaarintasan@gmail.com",
+      "name": "Musse S. Aw-Musse",
+      "phone": "252907790584",
+      "passwordHash": "$2b$10$yxzr2bWK4LWYw6VObAA/X.QprTPCrXc17C..Ezu5xux9HWShA1ONS",
+      "country": "somalia",
+      "city": "qardho",
+      "createdAt": "2025-12-29T18:59:38.464Z",
+      "enrollments": [
+        {
+          "courseId": "all-access",
+          "courseTitle": "All-Access Subscription",
+          "planType": "yearly",
+          "accessStart": "2026-01-17T15:46:26.777969",
+          "accessEnd": "2027-01-17T15:46:26.758"
+        },
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "yearly",
+          "accessStart": "2026-01-18T20:47:01.645429",
+          "accessEnd": "2027-01-17T15:46:26.758"
+        },
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "yearly",
+          "accessStart": "2026-01-18T20:46:45.024256",
+          "accessEnd": "2027-01-17T15:46:26.758"
+        }
+      ]
+    },
+    {
+      "id": "976c4a58-e1da-4296-a94e-f27cd4d85404",
+      "email": "abdiqadirhajihersi@gmail.com",
+      "name": "Cabdiqaadir Xaaji Xersi",
+      "phone": "+353894107848",
+      "passwordHash": "",
+      "country": "ireland",
+      "city": "cork",
+      "createdAt": "2025-12-31T21:19:34.900Z",
+      "enrollments": []
+    },
+    {
+      "id": "57444890-eb75-41c8-b9a6-5525b441ef6d",
+      "email": "shanisaid@hotmail.com",
+      "name": "shani Aw-Musse",
+      "phone": "00358451977702",
+      "passwordHash": "$2b$10$/AzkSSb4EhHZ84YNTMw8UOXU6kEtM2Deu4PMAvEasYpb5vU63d/kG",
+      "country": "finland",
+      "city": "helsinki",
+      "createdAt": "2026-01-04T11:13:05.194Z",
+      "enrollments": [
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "one-time",
+          "accessStart": "2026-01-07T01:45:28.57351",
+          "accessEnd": "2030-12-31T00:00:00"
+        },
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "one-time",
+          "accessStart": "2026-01-08T20:21:21.504867",
+          "accessEnd": "2030-12-31T00:00:00"
+        }
+      ]
+    },
+    {
+      "id": "d9a363bd-2b30-418d-a7e0-bed95ca7f5be",
+      "email": "sharmarkemusse@hotmail.com",
+      "name": "Abdi Ali",
+      "phone": "+358442409337",
+      "passwordHash": "$2b$10$IW.hbuxM.8wnmmznj6Jfhus7Xj5Qyv7CgmCz6TRA1Qqd3knXvOWUe",
+      "country": "finland",
+      "city": "helsinki",
+      "createdAt": "2026-01-04T14:22:36.537Z",
+      "enrollments": [
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "one-time",
+          "accessStart": "2026-01-08T19:17:16.040171",
+          "accessEnd": "2026-08-04T19:00:55.829551"
+        }
+      ]
+    },
+    {
+      "id": "e653764d-9adb-457e-9629-d5679aab54ea",
+      "email": "tasmeam.abdi.09@gmail.com",
+      "name": "Tasneam Abdisalam ",
+      "phone": "3062610158",
+      "passwordHash": "$2b$10$MSCyg.NRzGFQWQV2/b9QDeW7sBJng81cRlQH5/.q66icVezIaO/Ym",
+      "country": "canada",
+      "city": "other",
+      "createdAt": "2026-01-05T23:08:58.448Z",
+      "enrollments": [
+        {
+          "courseId": "all-access",
+          "courseTitle": "All-Access Subscription",
+          "planType": "yearly",
+          "accessStart": "2026-01-17T15:45:44.092384",
+          "accessEnd": "2027-01-17T15:45:44.075"
+        },
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "yearly",
+          "accessStart": "2026-01-19T08:50:13.531544",
+          "accessEnd": "2027-01-17T15:45:44.075"
+        },
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "yearly",
+          "accessStart": "2026-01-19T08:50:15.0444",
+          "accessEnd": "2027-01-17T15:45:44.075"
+        }
+      ]
+    },
+    {
+      "id": "b0ceecc2-bf56-4131-bb75-835e51bdf711",
+      "email": "jemala470@gmail.com",
+      "name": "Ayan jamal ali",
+      "phone": "+32465555804",
+      "passwordHash": "$2b$10$0AS2Xb.whOoLOhuCjcPwJ.VD3KflLxu.knoOdlOiNnEO2uO7nO/Rq",
+      "country": "belgium",
+      "city": "antwerp",
+      "createdAt": "2026-01-06T17:42:40.339Z",
+      "enrollments": []
+    },
+    {
+      "id": "80eb17c9-958b-4e29-a2bd-d309afa53a98",
+      "email": "ibrahimistahil981@gmail.com",
+      "name": "Istaahil ibraahim A raxmaan ",
+      "phone": "+252634396239",
+      "passwordHash": "$2b$10$tOTxmVKxYNz24xIgxuvJueggTuqkrjUT0s6Wb6vGuS/Vs6.c7UJFO",
+      "country": "somalia",
+      "city": "hargeisa",
+      "createdAt": "2026-01-07T19:58:52.937Z",
+      "enrollments": [
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "yearly",
+          "accessStart": "2026-01-08T15:01:19.497142",
+          "accessEnd": "2027-01-08T15:01:19.351"
+        },
+        {
+          "courseId": "all-access",
+          "courseTitle": "All-Access Subscription",
+          "planType": "yearly",
+          "accessStart": "2026-01-17T15:44:38.746135",
+          "accessEnd": "2027-01-17T15:44:38.727"
+        },
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "yearly",
+          "accessStart": "2026-01-19T10:45:43.664503",
+          "accessEnd": "2027-01-17T15:44:38.727"
+        }
+      ]
+    },
+    {
+      "id": "24374edc-df61-4165-b9db-76bb0e0b7c28",
+      "email": "daganabdullahi12@icloud.com",
+      "name": "Dagan",
+      "phone": "6124597771",
+      "passwordHash": "$2b$10$XGffaA4lX54QAl8N1/owDeXdu2WIBxebYG.SwofwmtGDsobZ9Y2c6",
+      "country": "usa",
+      "city": "minneapolis",
+      "createdAt": "2026-01-07T20:09:25.015Z",
+      "enrollments": []
+    },
+    {
+      "id": "877f5667-2a25-4853-be62-8bc1520b638c",
+      "email": "aasmo9879@gmail.com",
+      "name": "asma abdi",
+      "phone": "0905688260",
+      "passwordHash": "$2b$10$tlvXi3QXjR4CeHpnrnsi0OBdcuqPsRDpMVHUADXR4meJ1ULrf.3Ii",
+      "country": "somalia",
+      "city": "qardho",
+      "createdAt": "2026-01-09T16:51:46.983Z",
+      "enrollments": [
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "one-time",
+          "accessStart": "2026-01-12T22:35:58.050792",
+          "accessEnd": "2026-08-04T19:00:55.829551"
+        },
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "one-time",
+          "accessStart": "2026-01-11T13:46:04.041884",
+          "accessEnd": "2026-08-04T19:00:55.829551"
+        }
+      ]
+    },
+    {
+      "id": "8fb0b2fe-62a9-4255-9750-2df82b83af2e",
+      "email": "nalkasheel@gmail.com",
+      "name": "Naima Hussein Yusuf ",
+      "phone": "+49 176 23848839",
+      "passwordHash": "$2b$10$72jzK8DlCGb2oBnkBXJ2TO7x0fn2Gkxpbrv2Ip5t.Xm4BQoTf4Xla",
+      "country": "germany",
+      "city": "other",
+      "createdAt": "2026-01-09T17:24:47.880Z",
+      "enrollments": [
+        {
+          "courseId": "all-access",
+          "courseTitle": "All-Access Subscription",
+          "planType": "yearly",
+          "accessStart": "2026-01-18T18:45:43.305983",
+          "accessEnd": "2027-01-18T18:45:43.287"
+        },
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "yearly",
+          "accessStart": "2026-01-19T12:37:25.984328",
+          "accessEnd": "2027-01-18T18:45:43.287"
+        },
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "yearly",
+          "accessStart": "2026-01-19T12:37:31.87675",
+          "accessEnd": "2027-01-18T18:45:43.287"
+        }
+      ]
+    },
+    {
+      "id": "0f8268e4-a035-49af-b480-eda03f3e632c",
+      "email": "hoodojamal494@gmail.com",
+      "name": "Hoodo jamal maxamed ",
+      "phone": "634945553",
+      "passwordHash": "$2b$10$9xNNi23KneBYKxl0eHOH6OTQo/FSVrhYHUTrgpX9wHVK3apdMgT2K",
+      "country": "somalia",
+      "city": "hargeisa",
+      "createdAt": "2026-01-10T15:35:22.712Z",
+      "enrollments": []
+    },
+    {
+      "id": "46dc6941-e5f3-4e6d-8806-ec81d8c21032",
+      "email": "safaaguuleed24@gmail.com",
+      "name": "Safa Abdullahi Maxamuud ",
+      "phone": "252618113380",
+      "passwordHash": "$2b$10$Itg4L7O7TP4NFT.dFfwRKeiYPdvKLPdhSL/uztypfN34yGe77FP2e",
+      "country": "somalia",
+      "city": "mogadishu",
+      "createdAt": "2026-01-10T15:38:33.538Z",
+      "enrollments": [
+        {
+          "courseId": "all-access",
+          "courseTitle": "All-Access Subscription",
+          "planType": "yearly",
+          "accessStart": "2026-01-25T19:03:43.452445",
+          "accessEnd": "2027-01-25T19:03:43.434"
+        }
+      ]
+    },
+    {
+      "id": "27b61890-70de-44c0-91ae-1a5865a833dd",
+      "email": "mucokhadar@gmail.com",
+      "name": "Kadar ali osman",
+      "phone": "252654177023",
+      "passwordHash": "$2b$10$gV3hF9c3EuIHNKyfQwjewuDNZeXrP0Vz5vNSQ2821rSPqoBBkZZNm",
+      "country": "somalia",
+      "city": "wajaale",
+      "createdAt": "2026-01-10T15:45:09.702Z",
+      "enrollments": []
+    },
+    {
+      "id": "52ac029e-4cf7-493b-9146-efc0420fe698",
+      "email": "maryanjamacmohamed@gmail.com",
+      "name": "Maryan jama mohamed ",
+      "phone": "+252612357958",
+      "passwordHash": "$2b$10$VH2lCOnY7vDn8no.oLQvlOAqdt1SggKGwW5YCbFVkldE4lcOgqXKW",
+      "country": "somalia",
+      "city": "beled_xaawo",
+      "createdAt": "2026-01-10T16:00:49.045Z",
+      "enrollments": []
+    },
+    {
+      "id": "3797b6b5-83fd-4841-bf6d-18614958d430",
+      "email": "naimaahmed@235",
+      "name": "Nimco ahmed mohomed ",
+      "phone": "613299359",
+      "passwordHash": "$2b$10$D3F73/G1jn7wqvrOh4yKzu5i1tlcezPwhypKHFWvh9vXt.weAssBG",
+      "country": "somalia",
+      "city": "mogadishu",
+      "createdAt": "2026-01-10T16:22:06.886Z",
+      "enrollments": []
+    },
+    {
+      "id": "f1e71886-a1b7-4caf-8093-5dda8a8e2b07",
+      "email": "hawadahir91@gmail.com",
+      "name": "Hawa Dahir",
+      "phone": "+15875988060",
+      "passwordHash": "$2b$10$FUlgKsz5YltX.196yX6VS.OSMZADyauf0ivrhKw4Jky2Oy5OlLn1G",
+      "country": "canada",
+      "city": "edmonton",
+      "createdAt": "2026-01-10T16:42:14.960Z",
+      "enrollments": []
+    },
+    {
+      "id": "e862e96c-dfb9-49bc-b78c-d0ae0cb84254",
+      "email": "msacdiya553@gmail.com",
+      "name": "Sacdiya mohamed Yusuf ",
+      "phone": "+18143845465",
+      "passwordHash": "$2b$10$Ip2sVNfpsKShjmt12mXUxOxLvsl7ELhjRa9jkT5EGKlvhX9G6v/Ry",
+      "country": "usa",
+      "city": "columbus",
+      "createdAt": "2026-01-10T17:06:34.724Z",
+      "enrollments": []
+    },
+    {
+      "id": "129e582e-e923-47f5-9faf-bd1101e42c99",
+      "email": "aloore@gmail.com",
+      "name": "Hana",
+      "phone": "25290755260",
+      "passwordHash": "$2b$10$m8VRL4UOp7nJcBdWs2gLKuxDScLrVfEX.k8vdHZEiU10eBjuuippC",
+      "country": "somalia",
+      "city": "gaalkacyo",
+      "createdAt": "2026-01-10T17:08:53.950Z",
+      "enrollments": []
+    },
+    {
+      "id": "734cbacd-0400-4f4f-88a5-a381b2906ec0",
+      "email": "muuseshacni@gmail.com",
+      "name": "Shacni",
+      "phone": "0451977702",
+      "passwordHash": "$2b$10$TnSoTTrFBXShpRo/f.9Mn.RW13eQAte9PMy96kWxQSkmiVu5kRsXu",
+      "country": "other",
+      "city": "other",
+      "createdAt": "2026-01-10T17:47:05.609Z",
+      "enrollments": []
+    },
+    {
+      "id": "b67d8bb7-242f-4f25-b4a2-8af32a78ec4f",
+      "email": "ubah730@gmail.com",
+      "name": "Ubax Saalax Xasan ",
+      "phone": "634128454",
+      "passwordHash": "$2b$10$BQsmTQLb0ars7yfXFBPyJuLxm48JY42BFNhd53usvnGUlXHd.auly",
+      "country": "somalia",
+      "city": "hargeisa",
+      "createdAt": "2026-01-10T17:48:07.612Z",
+      "enrollments": []
+    },
+    {
+      "id": "9edc2c64-d4cd-4fc5-85f9-48a0cfe8c8b4",
+      "email": "aaminohaajiali@gmail.com",
+      "name": "Aamina xaji cali daud",
+      "phone": "616722900",
+      "passwordHash": "$2b$10$ATt2mPR3ekY.AkrzrXEU1e2SwY7Ju0B.z7IfoN23Fuv9SL5kSP.S.",
+      "country": "somalia",
+      "city": "mogadishu",
+      "createdAt": "2026-01-10T17:53:52.599Z",
+      "enrollments": []
+    },
+    {
+      "id": "e496a824-bf3c-4a22-8be6-460e00ebc92f",
+      "email": "suleekhamohamed20@gmail.com",
+      "name": "Sulekha mohed jama",
+      "phone": "+252634437159",
+      "passwordHash": "$2b$10$rlVflqxqI9RNpoLj8EDyR.ih940hNHB0MkTZsyIyhxX30qIkECgiq",
+      "country": "somalia",
+      "city": "laascaanood",
+      "createdAt": "2026-01-10T18:06:48.315Z",
+      "enrollments": [
+        {
+          "courseId": "all-access",
+          "courseTitle": "All-Access Subscription",
+          "planType": "yearly",
+          "accessStart": "2026-01-19T22:00:12.267563",
+          "accessEnd": "2027-01-19T22:00:12.245"
+        },
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "yearly",
+          "accessStart": "2026-01-21T18:35:10.394155",
+          "accessEnd": "2027-01-19T22:00:12.245"
+        },
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "yearly",
+          "accessStart": "2026-01-21T18:35:08.838227",
+          "accessEnd": "2027-01-19T22:00:12.245"
+        }
+      ]
+    },
+    {
+      "id": "128c6d3c-484d-4dd0-b53f-69b69a77f838",
+      "email": "hamdina1129@gmail.com",
+      "name": "Hamda Omer adem",
+      "phone": "+251929294343",
+      "passwordHash": "$2b$10$g/x9K7WknfPAH1DoNTO6B.sQ5o09m13FQgfi.MOpVo7BM2Ek.pVoW",
+      "country": "ethiopia",
+      "city": "addis",
+      "createdAt": "2026-01-10T18:12:58.220Z",
+      "enrollments": []
+    },
+    {
+      "id": "58df92ef-4d43-4fbd-9e8e-b16f777ea548",
+      "email": "kowsar8262@gmail.com",
+      "name": "Kawsar sh cbdilqdr ",
+      "phone": "+41765651097",
+      "passwordHash": "$2b$10$vy9SpdbjgCM1zbwSJIBRP.AoIzIQr/nH1nGUlPfYLL7ZetKazSoDW",
+      "country": "switzerland",
+      "city": "other",
+      "createdAt": "2026-01-10T18:19:55.810Z",
+      "enrollments": []
+    },
+    {
+      "id": "ff726ff0-e4dd-44ca-9178-fe857a8fdde1",
+      "email": "sagalabdirahman627@gmail.com",
+      "name": "Siciido abdirahman warsame ",
+      "phone": "252906202618",
+      "passwordHash": "$2b$10$A.J4FZN0prvqR6kOsmFHvuXHufkw0tE/VkszSBSJ0pldaUlrytjYS",
+      "country": "somalia",
+      "city": "garowe",
+      "createdAt": "2026-01-10T18:25:00.346Z",
+      "enrollments": []
+    },
+    {
+      "id": "52a009f3-c54c-494f-916a-003a79ea188f",
+      "email": "Asmaa.mmsicow@mail.com",
+      "name": "Asmaa mohamed mohamud",
+      "phone": "00252615543997",
+      "passwordHash": "$2b$10$VMCH4t3BkTf/cENFs9YLNeR4lXPrD9MDM7nGXYNKOp..6T6Wa.rPm",
+      "country": "somalia",
+      "city": "mogadishu",
+      "createdAt": "2026-01-10T18:27:10.915Z",
+      "enrollments": []
+    },
+    {
+      "id": "81eac19a-5f95-41c4-bbb7-b2635cfefe27",
+      "email": "fadimosahrahotmail@gmail.com",
+      "name": "Fadimo yusuf mohamed ",
+      "phone": "252633437914",
+      "passwordHash": "$2b$10$DSFzbhFuMtdu/HEStGHD7.CeF5OWVt2QK80nM1INwsbSZz1aCEF2O",
+      "country": "somalia",
+      "city": "other",
+      "createdAt": "2026-01-10T18:27:50.275Z",
+      "enrollments": []
+    },
+    {
+      "id": "f86768b6-9742-43c3-b24e-a07560b6a365",
+      "email": "ikraanabdishakuur50@gmail.com",
+      "name": "Ikraam cabdishakuur geedi ",
+      "phone": "0636381414",
+      "passwordHash": "$2b$10$LhxmqBaz19BU5FPsqYgx1.Eup7I4fxfXD9fyXK.38baj1QvlOGmC.",
+      "country": "somalia",
+      "city": "borama",
+      "createdAt": "2026-01-10T18:34:00.887Z",
+      "enrollments": []
+    },
+    {
+      "id": "18e1fed2-1027-4dcd-9c75-65f83f5fc7cd",
+      "email": "maxamedsacid12@email.com",
+      "name": "nadifa xashi maxamuud",
+      "phone": "684703151",
+      "passwordHash": "$2b$10$zWUo3uwYxbjdauJIPem.ve..4ldxKf/ag7SFQQ.RazLjgeRpDB5Le",
+      "country": "somalia",
+      "city": "mogadishu",
+      "createdAt": "2026-01-10T18:37:20.810Z",
+      "enrollments": []
+    },
+    {
+      "id": "780c21a5-a099-4c47-aeb9-575bc4b9e745",
+      "email": "qurux60@gmail.com",
+      "name": "Mulki Ismail ",
+      "phone": "+46762794248",
+      "passwordHash": "$2b$10$Cfih5iOqpkMiyDtWytWlpevIC5oLjhpfW6ugH3MhyISIHmxw8zjcm",
+      "country": "sweden",
+      "city": "stockholm",
+      "createdAt": "2026-01-10T18:46:08.162Z",
+      "enrollments": []
+    },
+    {
+      "id": "c820d2d0-51cf-414e-9cb8-d419b0a821f2",
+      "email": "micraajbashiir7@gmail.com",
+      "name": "Nadiira muuse Ali",
+      "phone": "611640083",
+      "passwordHash": "$2b$10$r6RhrES1C3CyGGtvVRnPo.zcJuXDT2PFjUaUmrjIiGY3YTN6oSuc.",
+      "country": "somalia",
+      "city": "mogadishu",
+      "createdAt": "2026-01-10T18:47:18.982Z",
+      "enrollments": []
+    },
+    {
+      "id": "14721164-cd98-4705-8a76-b9dce55f6201",
+      "email": "naimaabdisalam@gmail.com",
+      "name": "Naima abdi",
+      "phone": "905205057",
+      "passwordHash": "$2b$10$I09sH.Kf0HIla9c8sCnNQeyCkB5CAVOFTZl7hU5WHcHrWQMYpEGvO",
+      "country": "somalia",
+      "city": "garowe",
+      "createdAt": "2026-01-10T18:48:34.112Z",
+      "enrollments": []
+    },
+    {
+      "id": "84dcd666-2a1b-41b3-9e7e-a0527bb42865",
+      "email": "luuzaluv@gmail.com",
+      "name": "Halima Muhudin",
+      "phone": "+256759128884",
+      "passwordHash": "$2b$10$fVQzJOqtGRuyh1by9XJvZOK1vmN8L6Q3G.fh5xmgLJ2XoA9Cfw7o2",
+      "country": "uganda",
+      "city": "kampala",
+      "createdAt": "2026-01-10T19:09:27.884Z",
+      "enrollments": []
+    },
+    {
+      "id": "e2cfff6c-4c41-414e-9650-1154992f2c22",
+      "email": "fadimoyusufhotmail@gmail.com",
+      "name": "Fadimo Sahra",
+      "phone": "252633437914",
+      "passwordHash": "$2b$10$13HdpN3pr3fSQ2WHPA2HD.yGL7FcNnqz63moPnb2wgkOzDgDqVcWu",
+      "country": "somalia",
+      "city": "burao",
+      "createdAt": "2026-01-10T19:11:05.862Z",
+      "enrollments": []
+    },
+    {
+      "id": "9b18719e-8b96-4e47-9909-0f2689a69694",
+      "email": "laylacadilbaasadiiq@gmail.com",
+      "name": "Leyla caadil xassan ",
+      "phone": "00252619340163",
+      "passwordHash": "$2b$10$M93LSdtc0xX0li72C6PfAOXqUUB7nK87mdqOEt.S2H3xzWC6KANvW",
+      "country": "somalia",
+      "city": "mogadishu",
+      "createdAt": "2026-01-10T19:11:24.241Z",
+      "enrollments": []
+    },
+    {
+      "id": "48d3dca7-3713-49d2-8627-fff9d8e2d96f",
+      "email": "awalehoodojamal@gmail.com",
+      "name": "Hoodo jamal Ali ",
+      "phone": "27682450812",
+      "passwordHash": "$2b$10$UUxZE2lScpXRT2lWsvzYluvwMFnUhOUnPbvO1MX3sQyMnlAcl2lvK",
+      "country": "south_africa",
+      "city": "other",
+      "createdAt": "2026-01-10T19:31:13.226Z",
+      "enrollments": [
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "yearly",
+          "accessStart": "2026-01-18T19:20:44.310951",
+          "accessEnd": "2027-01-17T15:43:36.849"
+        },
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "yearly",
+          "accessStart": "2026-01-18T19:20:41.180947",
+          "accessEnd": "2027-01-17T15:43:36.849"
+        },
+        {
+          "courseId": "all-access",
+          "courseTitle": "All-Access Subscription",
+          "planType": "yearly",
+          "accessStart": "2026-01-17T15:43:36.86646",
+          "accessEnd": "2027-01-17T15:43:36.849"
+        }
+      ]
+    },
+    {
+      "id": "cf0a25ed-c686-4753-a414-13cec5a2c42b",
+      "email": "marwohanisharaf@gmail.com",
+      "name": "Hani Ali Abdule",
+      "phone": "254791771839",
+      "passwordHash": "$2b$10$Xu5py88vKwVtunDYAdS2XeQ3l4vsFernJTsNvNpRC2Jsw6jzB2BQK",
+      "country": "kenya",
+      "city": "nairobi",
+      "createdAt": "2026-01-10T20:29:57.293Z",
+      "enrollments": []
+    },
+    {
+      "id": "c27f548d-9c8f-464a-9837-c9d491c46859",
+      "email": "fahimaahmed2015@gmail.com",
+      "name": "Fihima Ahmed Mohammed",
+      "phone": "004917662698523",
+      "passwordHash": "$2b$10$CP0i/aACVMpqiT7w3DvJcO5Edlxz17T76piXytMv2edkjQylVTnVu",
+      "country": "germany",
+      "city": "other",
+      "createdAt": "2026-01-10T21:09:03.648Z",
+      "enrollments": []
+    },
+    {
+      "id": "7ea644d6-9249-4963-a802-c7d2c147664d",
+      "email": "isbadal48@gmail.com",
+      "name": "Fatima Sh Mahad Adem ",
+      "phone": "+251963900663",
+      "passwordHash": "$2b$10$4LTH/Wuu70KlMqJniDdjFese9DYkOoquOtrhilNzD2w4YoKfZaVIa",
+      "country": "ethiopia",
+      "city": "other",
+      "createdAt": "2026-01-10T22:11:46.942Z",
+      "enrollments": []
+    },
+    {
+      "id": "526890d0-a1f2-4acf-8833-461267c31a36",
+      "email": "506314@m",
+      "name": "Rahma ahmad ",
+      "phone": "*46764307371",
+      "passwordHash": "$2b$10$CW58KHi8P/zFdNptigeIJe/sWuyYrHqSk28cFjaJPa8PW1OeC/f8C",
+      "country": "sweden",
+      "city": "other",
+      "createdAt": "2026-01-11T02:38:56.743Z",
+      "enrollments": []
+    },
+    {
+      "id": "6e1cbc5f-fb9f-4ac7-be86-ab0d4892f141",
+      "email": "heersare002@gmail.com",
+      "name": "Ugbaad Mohamed ",
+      "phone": "+2520634029881",
+      "passwordHash": "$2b$10$KPbfd3y.Dw64ZFyyVL9vDOSuHdMTOkvNJjRC2eQVEdFB.lLnyC53m",
+      "country": "somalia",
+      "city": "hargeisa",
+      "createdAt": "2026-01-11T04:36:23.294Z",
+      "enrollments": []
+    },
+    {
+      "id": "f30b47b0-0c43-485a-867e-9f0d1c777403",
+      "email": "ummuasma750@gmail.com",
+      "name": "Amal Abdullahi Ali",
+      "phone": "+923092651694",
+      "passwordHash": "$2b$10$0gDHf.LNACQ26rZCy8JGyOsouXQux/BC1Gnm/W4EkeoICLeOrCwNi",
+      "country": "pakistan",
+      "city": "karachi",
+      "createdAt": "2026-01-11T05:02:36.878Z",
+      "enrollments": []
+    },
+    {
+      "id": "1c623606-9d35-43a7-bc2b-16277a44939b",
+      "email": "sabarinali892@gamail.com",
+      "name": "Saabariin Cali maxamed ",
+      "phone": "25412670992",
+      "passwordHash": "$2b$10$rArETDBHyMyK3MciztLtq.WOKBQBeysjyuy37CmMc1JHdalE5x9t.",
+      "country": "kenya",
+      "city": "eastleigh",
+      "createdAt": "2026-01-11T07:16:23.432Z",
+      "enrollments": [
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "yearly",
+          "accessStart": "2026-01-18T12:21:17.102279",
+          "accessEnd": "2027-01-18T10:35:25.199"
+        },
+        {
+          "courseId": "all-access",
+          "courseTitle": "All-Access Subscription",
+          "planType": "yearly",
+          "accessStart": "2026-01-18T10:35:25.218407",
+          "accessEnd": "2027-01-18T10:35:25.199"
+        },
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "yearly",
+          "accessStart": "2026-01-18T18:49:01.278761",
+          "accessEnd": "2027-01-18T10:35:25.199"
+        }
+      ]
+    },
+    {
+      "id": "2c31178e-3802-4696-b10f-08a1c044e9e9",
+      "email": "amalabdilahi33@gmail.com",
+      "name": "Amal abdilahi ali ",
+      "phone": "00252634222294",
+      "passwordHash": "$2b$10$Y.mRE5cDSKWrMnaM0SwVmOW2W1tLDK9vqPAra.bKXkkS2aausEnwG",
+      "country": "somalia",
+      "city": "hargeisa",
+      "createdAt": "2026-01-11T07:17:13.657Z",
+      "enrollments": []
+    },
+    {
+      "id": "afb6af4d-da5b-48a1-a734-b01af431e983",
+      "email": "ikrantahliil143@gmail.com",
+      "name": "Ikraan Tahliil Aadan ",
+      "phone": "+252615676308",
+      "passwordHash": "$2b$10$u228spa2Do3Bh137BUc.DOFDEgLbaHOWOsAz/sPUiHWmHpq4KZYW6",
+      "country": "somalia",
+      "city": "cadaado",
+      "createdAt": "2026-01-11T08:03:13.147Z",
+      "enrollments": []
+    },
+    {
+      "id": "c227fed9-5e10-49dc-837a-73484703ce6f",
+      "email": "maryanh191@gmail.com",
+      "name": "Maryam xasan",
+      "phone": "0615432413",
+      "passwordHash": "$2b$10$QCnSDeMdUkDsz2pGqD4g..MHPFBv6IwWHwaW6Jk5r6G6QCOgoTyyG",
+      "country": "somalia",
+      "city": "mogadishu",
+      "createdAt": "2026-01-11T08:15:17.538Z",
+      "enrollments": []
+    },
+    {
+      "id": "3b5ec1b1-3816-4654-b329-fe9b99ab44a0",
+      "email": "caynicabdilaahi7@gmail.com",
+      "name": "Safa cabdilaahi Ahmed",
+      "phone": "0634285079",
+      "passwordHash": "$2b$10$lspWZEkaW9HT8seNIyyMT.JmcTwMT75CDC5cgm1Rb8poOnYW9EWUu",
+      "country": "somalia",
+      "city": "oodweyne",
+      "createdAt": "2026-01-11T09:29:05.362Z",
+      "enrollments": []
+    },
+    {
+      "id": "98b95da3-ed48-479d-9e5c-ca8c266cde36",
+      "email": "fardawzashidane@gmail.com",
+      "name": "Iqra Abdullah",
+      "phone": "+254768149797",
+      "passwordHash": "$2b$10$y6/k6IZw/RHoMRbjXRJC9O7ez108H.cNisCoMMvZAznfHlVFQ/l16",
+      "country": "kenya",
+      "city": "eastleigh",
+      "createdAt": "2026-01-11T09:32:54.678Z",
+      "enrollments": []
+    },
+    {
+      "id": "f6d4c7ef-31d3-4312-90c8-3406d93a4adb",
+      "email": "mohayb.nasri49@gmail.com",
+      "name": "Axlaam",
+      "phone": "+4917631476231",
+      "passwordHash": "$2b$10$nT9LyE3MR7dUVoavjd4FsekD.R0HMDhKuPcndb7wQZxFoPuwTcz0q",
+      "country": "germany",
+      "city": "frankfurt",
+      "createdAt": "2026-01-11T10:06:16.679Z",
+      "enrollments": []
+    },
+    {
+      "id": "d5d1bd39-f226-40bc-9fc2-f8c06448196a",
+      "email": "cabdulaahisheekhcali@gmail.com",
+      "name": "Shankaroonmaxamedaadan",
+      "phone": "0614839619",
+      "passwordHash": "$2b$10$etJtlKA7QJCHKdGfScF62eNpUcYbqOjNk5UTIr9mgtWsQinycf6rK",
+      "country": "somalia",
+      "city": "beledweyne",
+      "createdAt": "2026-01-11T11:03:18.648Z",
+      "enrollments": []
+    },
+    {
+      "id": "51aa5809-0fb7-4d5f-a123-617cb883c5ae",
+      "email": "Almacabdi0@gmail.com",
+      "name": "Amaaal cabdi xirsi",
+      "phone": "+252634562985",
+      "passwordHash": "$2b$10$Rkdcc6DBbP3TGwCZuwcUouPvQsHZVTsont5WLdW3x53E6jv9cIHqG",
+      "country": "somalia",
+      "city": "hargeisa",
+      "createdAt": "2026-01-11T11:32:44.533Z",
+      "enrollments": []
+    },
+    {
+      "id": "882a0b77-56bf-4750-abbd-8694fe808631",
+      "email": "sahrasiman45@gmail.com",
+      "name": "Sahra c/risaaq ",
+      "phone": "+252634181795",
+      "passwordHash": "$2b$10$WlF45Ij7mW2ElG1zIXJTYOjnVapHcYL4to8Rj45qcF18ktGr98NDS",
+      "country": "somalia",
+      "city": "laascaanood",
+      "createdAt": "2026-01-11T11:39:27.425Z",
+      "enrollments": []
+    },
+    {
+      "id": "5d407b3a-42de-416a-93bb-85055dfed559",
+      "email": "caalimkiiadunka@gmail.com",
+      "name": "Nastexo axmed hashim ",
+      "phone": "611002273",
+      "passwordHash": "$2b$10$tVLnda1xRslpAJqOYjeeb.Lb18NaHedkXjzVA6bS0/wbFAHGJ8CBi",
+      "country": "somalia",
+      "city": "mogadishu",
+      "createdAt": "2026-01-11T11:50:56.756Z",
+      "enrollments": []
+    },
+    {
+      "id": "0f1f705c-a1d9-4d86-83e7-f775ea0c5ae3",
+      "email": "akramhooyadi@gmail.com",
+      "name": "Safiya abdirisak mohamuud ",
+      "phone": "251961752677",
+      "passwordHash": "$2b$10$oT432xZt9u7DC4cN3emxK.VUZm9tlSHo415NUU34PMGpd4ORdA4RS",
+      "country": "ethiopia",
+      "city": "jigjiga",
+      "createdAt": "2026-01-11T12:53:31.997Z",
+      "enrollments": []
+    },
+    {
+      "id": "30f8f7c4-3bf7-4a87-a6f4-d9de4bf4a9bc",
+      "email": "maxamedmuuse91@gmail.com",
+      "name": "Maxamed Muuse",
+      "phone": "+358466824412",
+      "passwordHash": "$2b$10$eEVpcYGcIgQwEqz/A7iJmea8WQeCgWdg.jduGJ7kEPBzj8oy7pEN2",
+      "country": "finland",
+      "city": "helsinki",
+      "createdAt": "2026-01-11T13:28:00.488Z",
+      "enrollments": [
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "one-time",
+          "accessStart": "2026-01-11T13:43:45.573273",
+          "accessEnd": "2026-08-04T19:00:55.829551"
+        },
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "one-time",
+          "accessStart": "2026-01-12T17:52:50.769682",
+          "accessEnd": "2026-08-04T19:00:55.829551"
+        }
+      ]
+    },
+    {
+      "id": "c1313418-196d-4745-b5c8-c387b3e9c395",
+      "email": "hamdinashad@gmail.com",
+      "name": "Xamdi ciise ",
+      "phone": "+2527908534",
+      "passwordHash": "$2b$10$I6lfF5y75GgtQiSozfC9.erocSo12vVZc8MhzujWZ8SAomJ7R4Oca",
+      "country": "somalia",
+      "city": "bosaso",
+      "createdAt": "2026-01-11T14:23:48.675Z",
+      "enrollments": []
+    },
+    {
+      "id": "c6caa16a-4848-4b9c-b200-80d007a652ed",
+      "email": "cabdulaahiyarisow25@gmail.com",
+      "name": "Cabdulaahi Maxamad Xasan ",
+      "phone": "618266244",
+      "passwordHash": "$2b$10$ELHd5Spjw4NLVcStwsBX1exKxqByejZEwDcqGSqdgUYeuU.aADREW",
+      "country": "somalia",
+      "city": "mogadishu",
+      "createdAt": "2026-01-11T14:35:28.410Z",
+      "enrollments": []
+    },
+    {
+      "id": "fa8423b3-6d8d-4790-b7ac-561febac3739",
+      "email": "eztahilmahamed@gmail.com",
+      "name": "istaahil maxamed cabdi",
+      "phone": "+251915344484",
+      "passwordHash": "$2b$10$fwT2sQoIuR2OuZHADGtTru.WCcyWIwaYz0U7.dAu3w4rGsdX8yDbO",
+      "country": "ethiopia",
+      "city": "degehabur",
+      "createdAt": "2026-01-11T16:08:06.090Z",
+      "enrollments": []
+    },
+    {
+      "id": "1d7edad4-8ddc-4c36-91ed-30d8c1bbd707",
+      "email": "awmusse.musse@gmail.com",
+      "name": "Musse Said Aw-Musse",
+      "phone": "+252907790584",
+      "passwordHash": "$2b$10$U/84rrMrnGLTZOshLObl..xYcT2GzuIWnA43UOAc.x9KzkgFSKIke",
+      "country": "somalia",
+      "city": "mogadishu",
+      "createdAt": "2026-01-11T16:18:55.140Z",
+      "enrollments": []
+    },
+    {
+      "id": "ad474964-93dd-49f4-8a4e-9b164b84844a",
+      "email": "suneyrasiman@gmail.com",
+      "name": "Kowther ",
+      "phone": "618925686",
+      "passwordHash": "$2b$10$r7sxpX88cBan1Toe9sGvPOUnZKLlnQiruPkbMzLYlCL2Wov3UP14W",
+      "country": "somalia",
+      "city": "mogadishu",
+      "createdAt": "2026-01-11T16:36:11.995Z",
+      "enrollments": []
+    },
+    {
+      "id": "3b5b3fd6-6ed2-4a19-82fd-6356cca34289",
+      "email": "salafraac@gmail.com",
+      "name": "Abdullahi Ali Hassan",
+      "phone": "+252617745829",
+      "passwordHash": "$2b$10$2X9Og0c72QZCPpyrCGC/reBPb9MJfKAbqe3uqVQaZkGQwP55TQ2ne",
+      "country": "somalia",
+      "city": "mogadishu",
+      "createdAt": "2026-01-11T16:50:50.106Z",
+      "enrollments": []
+    },
+    {
+      "id": "a0a37516-4b15-4f89-8ce6-8dd77dedfc98",
+      "email": "isramaxamed911@gmail.com",
+      "name": "Isra mohamed omer ",
+      "phone": "0636180370",
+      "passwordHash": "$2b$10$Tvy/55VHbsclmI1t6FhgFuEzDgp9sPNVSBfWQ4NzHF9qMYbFAQ5A2",
+      "country": "somalia",
+      "city": "other",
+      "createdAt": "2026-01-11T16:59:12.662Z",
+      "enrollments": []
+    },
+    {
+      "id": "bf4e5f3e-d2c3-417d-ba39-99d38c799ed6",
+      "email": "hodanyd78@gmail.com",
+      "name": "Hodan Yusuf Dualle",
+      "phone": "+255792539788",
+      "passwordHash": "$2b$10$rDOL9UxzXInxZ/6AHwUQguMUkN695yqmfdohQSQWfCNItgU19YJv6",
+      "country": "tanzania",
+      "city": "dar_es_salaam",
+      "createdAt": "2026-01-11T17:02:56.888Z",
+      "enrollments": []
+    },
+    {
+      "id": "a83a9b56-d767-4c4f-9d49-da8dd573cff0",
+      "email": "aminacalicabdulahi@gamil.com",
+      "name": "Aamina Cali Cabdulahi ",
+      "phone": "614299049",
+      "passwordHash": "$2b$10$0A3MfF74f.7JyIEVVKs.7uoXa4Wn.gmh7OC48qcFo08wPs5wf4fdq",
+      "country": "somalia",
+      "city": "mogadishu",
+      "createdAt": "2026-01-11T18:05:59.007Z",
+      "enrollments": []
+    },
+    {
+      "id": "7c3b88ee-1355-4e9a-8227-1248df167db8",
+      "email": "HothanDeeqa3@gmail.com",
+      "name": "Hodan abdirashid aw mouse ",
+      "phone": "+252634298472",
+      "passwordHash": "$2b$10$RbJu9rfd4alvnlBemkDb1uNwGsbarlH5OKBWW6CqshIUaAy/RGgvu",
+      "country": "somalia",
+      "city": "Berbera",
+      "createdAt": "2026-01-11T18:54:55.627Z",
+      "enrollments": []
+    },
+    {
+      "id": "4b273870-c48e-4c57-ba1a-3d520b5ebfe7",
+      "email": "mariyagorod95@outlook.com",
+      "name": "Carwoceebla gorod",
+      "phone": "07538526495",
+      "passwordHash": "$2b$10$ZHZNYV07T2VFen7ioXpKGuOiZhd3J9axTGa0p2Hy4uJmVQhajKuFy",
+      "country": "uk",
+      "city": "London",
+      "createdAt": "2026-01-11T22:22:36.379Z",
+      "enrollments": []
+    },
+    {
+      "id": "3dc2cdb1-615e-40c3-ae21-a24d101cc497",
+      "email": "xafsa632@gmail.com",
+      "name": "Umu maxamed",
+      "phone": "+252637875462",
+      "passwordHash": "$2b$10$Rxui91JYH9SRmdSn3s7HP.izPGHpXnLpB7iWA3RZ74come7j5EJ1e",
+      "country": "somalia",
+      "city": "Other",
+      "createdAt": "2026-01-11T22:26:32.290Z",
+      "enrollments": []
+    },
+    {
+      "id": "4bcb8fc5-1747-4f36-8220-d0e470c87673",
+      "email": "sacda797@gmail.com",
+      "name": "Marwa jaamac cismaan",
+      "phone": "+16413879303",
+      "passwordHash": "$2b$10$JJq5kRzOOMeVTtTAH8dzm.qC6E.npDooT9EAEh/thGC./VwgXL9BS",
+      "country": "zambia",
+      "city": "Other",
+      "createdAt": "2026-01-12T03:03:16.491Z",
+      "enrollments": []
+    },
+    {
+      "id": "39354373-7f6a-4433-8006-121bdf83d9e2",
+      "email": "marwajaamac662@gmail.com",
+      "name": "Marwa Jama Osman",
+      "phone": "0572077858",
+      "passwordHash": "$2b$10$E8euz8Ll88j2vBdMnlKmxutIPwGd.1CtxoFLlT.JS3CkJ6BUNI0RO",
+      "country": "zambia",
+      "city": "Other",
+      "createdAt": "2026-01-12T09:56:38.903Z",
+      "enrollments": [
+        {
+          "courseId": "all-access",
+          "courseTitle": "All-Access Subscription",
+          "planType": "yearly",
+          "accessStart": "2026-01-17T15:42:47.484629",
+          "accessEnd": "2027-01-17T15:42:47.468"
+        },
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "yearly",
+          "accessStart": "2026-01-19T12:12:14.482824",
+          "accessEnd": "2027-01-17T15:42:47.468"
+        },
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "yearly",
+          "accessStart": "2026-01-19T11:49:30.403364",
+          "accessEnd": "2027-01-17T15:42:47.468"
+        }
+      ]
+    },
+    {
+      "id": "766a663a-9a58-4e1a-ab09-5d1a0b5877f1",
+      "email": "faatush76@gmail.com",
+      "name": "Fatima Bashir Musse ",
+      "phone": "252907426147",
+      "passwordHash": "$2b$10$1FSEqHmCeF894WAukQ47puigbUF7hzAw5mvwDoOFC20Z06oEqv3je",
+      "country": "Egypt",
+      "city": "Cairo",
+      "createdAt": "2026-01-12T15:09:43.637Z",
+      "enrollments": []
+    },
+    {
+      "id": "53fca43d-cb63-4c0f-8796-479be0f7b028",
+      "email": "Zoyaabdirahman@gmail.com",
+      "name": "Rawda Abdurrahman Ibrahim ",
+      "phone": "+252615528999",
+      "passwordHash": "$2b$10$75xxZ3xMhCz7jTx713Iz0eQ7HXYhcdo6XTg6C44pYB5x0Ee1K2Xzq",
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "createdAt": "2026-01-13T08:04:51.360Z",
+      "enrollments": []
+    },
+    {
+      "id": "45a8a333-a3e4-4dd2-bf06-889ba83e7823",
+      "email": "sabirsacid12@com",
+      "name": "Nadifa Xashi Maxamuud",
+      "phone": "684703151",
+      "passwordHash": "$2b$10$h3cAVwlRYv4f8hlq/6lLH.1ja6Mtqam87otmGB8pDau8Zcr5DYx8a",
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "createdAt": "2026-01-13T12:49:38.049Z",
+      "enrollments": [
+        {
+          "courseId": "all-access",
+          "courseTitle": "All-Access Subscription",
+          "planType": "yearly",
+          "accessStart": "2026-01-18T18:16:34.368035",
+          "accessEnd": "2027-01-18T18:16:34.35"
+        },
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "yearly",
+          "accessStart": "2026-01-18T18:22:33.986139",
+          "accessEnd": "2027-01-18T18:16:34.35"
+        }
+      ]
+    },
+    {
+      "id": "106ff55d-074e-4f6a-a21a-7f41e1e278c9",
+      "email": "cismaann94@gmali.com",
+      "name": "Nimco Cismaan nuux ",
+      "phone": "+252634104722",
+      "passwordHash": "$2b$10$T29S5cZFDvWsOjNqEqNgSuU.uwTbFFIiDGiQ.rgf89gcuIFL2CkFy",
+      "country": "Somalia",
+      "city": "Burao",
+      "createdAt": "2026-01-13T13:42:24.484Z",
+      "enrollments": []
+    },
+    {
+      "id": "7db6c467-e32b-4426-8c48-f7fe901167b5",
+      "email": "fadumomaxkamad@gmail.com",
+      "name": "Faaduma c/llahi maxamuud",
+      "phone": "0096892437313",
+      "passwordHash": "$2b$10$upNI3ZJR8SXYHeN7awc8yOnSgqrGz4OFQZra5z0yhXswXNoZ9nxdK",
+      "country": "oman",
+      "city": "other",
+      "createdAt": "2026-01-13T20:01:31.268Z",
+      "enrollments": []
+    },
+    {
+      "id": "a6e799dd-3a43-4fdd-a76b-c18e3ae57805",
+      "email": "asmaa.mmsicow@gmail.com",
+      "name": "Asmaa mohamed mohamud",
+      "phone": "00252615543997",
+      "passwordHash": "$2b$10$wuF4VBPAolJuG8KBoZcOPuw5Bk2UkoqClC1fFvUKzkIeYUyGk5x/y",
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "createdAt": "2026-01-14T01:44:38.241Z",
+      "enrollments": [
+        {
+          "courseId": "all-access",
+          "courseTitle": "All-Access Subscription",
+          "planType": "yearly",
+          "accessStart": "2026-01-17T15:42:27.818853",
+          "accessEnd": "2027-01-17T15:42:27.801"
+        },
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-01T18:00:33.618447",
+          "accessEnd": "2027-01-17T15:42:27.801"
+        },
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "yearly",
+          "accessStart": "2026-02-01T18:00:48.425163",
+          "accessEnd": "2027-01-17T15:42:27.801"
+        }
+      ]
+    },
+    {
+      "id": "1b1d5a6a-dfce-490d-abcb-6c80dad8206d",
+      "email": "deeqacabdi369@gmail.com",
+      "name": "Deeqa Cabdi xaashi",
+      "phone": "+252634314208",
+      "passwordHash": "$2b$10$8KC6TsSI4TpdNvMt/SVZZewCfK913TgSS8v1jcTPjbBK1kM9FUl92",
+      "country": "Somalia",
+      "city": "Burao",
+      "createdAt": "2026-01-14T14:58:47.553Z",
+      "enrollments": []
+    },
+    {
+      "id": "d53013f9-2159-4765-bd7a-a9a970d1bb99",
+      "email": "Msacdiya553@gmail.com",
+      "name": "Sacdiya mohamed Yusuf ",
+      "phone": "+18143845465",
+      "passwordHash": "$2b$10$mNHjlETDOxvIVX3cWPo99eW1gts3.ucRFSnwO1Il8Xah5pfTWr1Sa",
+      "country": "Usa",
+      "city": "Other",
+      "createdAt": "2026-01-14T16:07:51.270Z",
+      "enrollments": []
+    },
+    {
+      "id": "26b7a29e-e5e2-4f38-93ac-0bd791e5bc71",
+      "email": "tarbiyaddacaruurta@gmail.com",
+      "name": "Tarbiyadda Caruurta",
+      "phone": "252907790584",
+      "passwordHash": "",
+      "country": "somalia",
+      "city": "kismayo",
+      "createdAt": "2026-01-16T08:50:06.859Z",
+      "enrollments": []
+    },
+    {
+      "id": "aae5fe71-1805-4dbb-8d76-5d4318a0aede",
+      "email": "musesaid@gmail.com",
+      "name": "Musse Said Aw-Musse",
+      "phone": "252907790584",
+      "passwordHash": "",
+      "country": "somalia",
+      "city": "qardho",
+      "createdAt": "2026-01-16T22:09:05.263Z",
+      "enrollments": []
+    },
+    {
+      "id": "159504c3-d99f-448d-b429-d354a17f7f76",
+      "email": "malinacisow@gmail.com",
+      "name": "Umu khadija",
+      "phone": "634740317",
+      "passwordHash": "$2b$10$FnHvSWUWjZdqo.I.wvO2rekQfC42Y9kzBNMa70QRTmzb4yYoAfLS.",
+      "country": "Somalia",
+      "city": "Berbera",
+      "createdAt": "2026-01-17T14:52:50.195Z",
+      "enrollments": []
+    },
+    {
+      "id": "47c76a52-7246-4e75-a8c4-5d4af6c6d643",
+      "email": "ummuramlamohamed12@gmail.com",
+      "name": "Fatima Mohamed",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-17T16:06:56.999Z",
+      "enrollments": []
+    },
+    {
+      "id": "bdf23260-be54-4c3d-854a-336952baec28",
+      "email": "Ibrahimistahil981@gmail.com",
+      "name": "Istaahil ibraahim A raxmaan ",
+      "phone": "+252634396239",
+      "passwordHash": "$2b$10$vQNW.ux2WLUaAUbN2O.FAejDPfIgWCso.aHRyqiBSucNv2syBNGY2",
+      "country": "Somalia",
+      "city": "Hargeisa",
+      "createdAt": "2026-01-17T17:39:21.276Z",
+      "enrollments": [
+        {
+          "courseId": "all-access",
+          "courseTitle": "All-Access Subscription",
+          "planType": "yearly",
+          "accessStart": "2026-01-18T18:44:34.832065",
+          "accessEnd": "2027-01-18T18:44:34.814"
+        },
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "yearly",
+          "accessStart": "2026-01-19T05:21:53.088172",
+          "accessEnd": "2027-01-18T18:44:34.814"
+        },
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T14:38:26.08423",
+          "accessEnd": "2027-01-18T18:44:34.814"
+        }
+      ]
+    },
+    {
+      "id": "463a5080-ee34-4be6-8719-8f762eef31f0",
+      "email": "cudooncumar3@gmail.com",
+      "name": "Caatika Cumar Haashim ",
+      "phone": "00252617587207",
+      "passwordHash": "$2b$10$KWUzhfRrcyOLkCwUsyfJ2egciRIK3Oj2FcaiffuxjaelotV7aKHcK",
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "createdAt": "2026-01-17T18:34:03.683Z",
+      "enrollments": [
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "monthly",
+          "accessStart": "2026-01-21T15:14:46.884057",
+          "accessEnd": "2026-03-06T19:00:24.831159"
+        },
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "monthly",
+          "accessStart": "2026-01-21T15:14:37.552343",
+          "accessEnd": "2026-03-06T19:00:24.831159"
+        }
+      ]
+    },
+    {
+      "id": "42b82fa6-ecb7-408c-abda-81d090afad24",
+      "email": "amatalahahmed997@gmail.com",
+      "name": "Nimco Axmed Ibrahim ",
+      "phone": "+251910000037",
+      "passwordHash": "$2b$10$xIvAL7mLgvMNsYf2erz09eZNyyydNputUOrclgDu18AxFMBrYhZH6",
+      "country": "Ethiopia",
+      "city": "Jigjiga",
+      "createdAt": "2026-01-18T14:10:11.822Z",
+      "enrollments": []
+    },
+    {
+      "id": "b0f17613-b912-41b3-a98e-7937e9bae7ed",
+      "email": "deeqahodan73@gmail.com",
+      "name": "Hodan Deeqa",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-18T17:22:57.246Z",
+      "enrollments": []
+    },
+    {
+      "id": "afeab666-0c9d-4807-baf9-85fda50c1ac5",
+      "email": "aaminacalicabdulahi@gmail.com",
+      "name": "Aamina cali Cabdulahi ",
+      "phone": "614299049",
+      "passwordHash": "$2b$10$EmaxqsQia3Mc6TdvvKUIvOvOy436S9qIBFjATFBHo8vh9eyRURBqO",
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "createdAt": "2026-01-19T11:43:25.017Z",
+      "enrollments": []
+    },
+    {
+      "id": "7c4ae501-793d-4d66-a1b2-e471b1f2793e",
+      "email": "aaminoaxmad34@gmail.com",
+      "name": "Aamino Ahmed",
+      "phone": "252619916057",
+      "passwordHash": "$2b$10$DekcsZCGksobiw07gShWReHCJ64CMp7YZUubNPyzRdrCtI/lPkVgK",
+      "country": "Somalia",
+      "city": "Cadaado",
+      "createdAt": "2026-01-19T12:13:36.745Z",
+      "enrollments": []
+    },
+    {
+      "id": "74705ea6-0075-49c0-a756-1071244f3e61",
+      "email": "mh2013872@gmail.com",
+      "name": "Muna xasan maxamed",
+      "phone": "0634078271",
+      "passwordHash": "$2b$10$AORcogHcRarjmoKXdbU3Ne/qjeGs9qAVUWcX.QStUZZE/IhedAxVu",
+      "country": "Somalia",
+      "city": "Hargeisa",
+      "createdAt": "2026-01-19T13:40:22.842Z",
+      "enrollments": []
+    },
+    {
+      "id": "35a5c13e-26ee-4d46-81bf-7cf0bd67de37",
+      "email": "sabiriinmaxamed555@gmail.com",
+      "name": "Sabiriin maxamed",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-19T18:16:05.105Z",
+      "enrollments": []
+    },
+    {
+      "id": "485036bc-4d4f-4ed5-a9fa-448f90d42864",
+      "email": "Sakinahthesakinah@gmail.com",
+      "name": "Selma farah",
+      "phone": "0634081658",
+      "passwordHash": "$2b$10$438cMqsc98awETlFaj2o1.8dczCgzyl/tsrAH/u.qqZmspT9peZYy",
+      "country": "Somalia",
+      "city": "Hargeisa",
+      "createdAt": "2026-01-19T18:24:58.555Z",
+      "enrollments": []
+    },
+    {
+      "id": "50abdca5-1fbb-482d-b99a-ca0bc1accd4a",
+      "email": "kedraxm@gmail.com",
+      "name": "Kedra",
+      "phone": "0046070413681",
+      "passwordHash": "$2b$10$7Y439YGd/6RojF1usaMBvu08V5zrSl0YwRAVG1G60w4fQh/WFtota",
+      "country": "Sweden",
+      "city": "Other",
+      "createdAt": "2026-01-19T19:21:25.536Z",
+      "enrollments": []
+    },
+    {
+      "id": "752e535d-8257-4a52-95f6-7e9681de180e",
+      "email": "fadumoali699@gmail.com",
+      "name": "Faatma ali",
+      "phone": "618122152",
+      "passwordHash": "$2b$10$aCA0VNurXj1x.IDqaAER.ev.3YF3Yb1ovSc9XVRGqLiHKnm6nesaq",
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "createdAt": "2026-01-19T19:30:26.232Z",
+      "enrollments": []
+    },
+    {
+      "id": "2c4dede2-058b-4135-b512-b9b46d689818",
+      "email": "muniitamohaa2022@gmail.com",
+      "name": "Muniita",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-19T19:46:45.584Z",
+      "enrollments": []
+    },
+    {
+      "id": "bb36d583-f445-424f-99ea-64b583169b4a",
+      "email": "saharaaden67@gmail.com",
+      "name": "Sahara Aden",
+      "phone": "",
+      "passwordHash": "$2b$10$/0UtP5pNONta8cogqeK06uWwOShzu4hbT/Kfz5dTOlEm8KfcmLMWS",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-19T20:13:12.021Z",
+      "enrollments": []
+    },
+    {
+      "id": "83c6386c-dda6-48f8-ba00-fdd0398f7053",
+      "email": "hindanur73@gmail.com",
+      "name": "Hinda Nur",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-19T20:52:40.270Z",
+      "enrollments": []
+    },
+    {
+      "id": "f69aef07-31fe-493f-9ed3-900bf07dbf07",
+      "email": "ridwaanxusen88@gmail.com",
+      "name": "Ridwaan",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-19T21:26:01.308Z",
+      "enrollments": []
+    },
+    {
+      "id": "5d0f3c84-0ed7-475c-8397-3637045f60ea",
+      "email": "sumayoabdihalim@gmail.com",
+      "name": "Sumayo Abdihalim",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-20T03:11:03.440Z",
+      "enrollments": []
+    },
+    {
+      "id": "88a1b08a-393c-4ec1-a5a2-e5825ca1be5c",
+      "email": "fardowso441232@gmail.com",
+      "name": "Fardowso Abdi yusuf",
+      "phone": "251978127372",
+      "passwordHash": "$2b$10$Z8I0lhwc1gH/3QsjcuDhveIh3T25yg9OGfore1nynpe5PkJ5Tnw5.",
+      "country": "Ethiopia",
+      "city": "Dire_dawa",
+      "createdAt": "2026-01-20T05:40:38.576Z",
+      "enrollments": []
+    },
+    {
+      "id": "07facb10-49dd-42b9-a41d-a68b6c5359f2",
+      "email": "barwaaqo5053@gamil.com",
+      "name": "Barwaqo ",
+      "phone": "252633893919",
+      "passwordHash": "$2b$10$rtRmY/Me8k23kic9wMMdZ.MUwE2mur0g5x54FABMlAs80vHKQPyt6",
+      "country": "Somalia",
+      "city": "Borama",
+      "createdAt": "2026-01-20T07:53:01.758Z",
+      "enrollments": []
+    },
+    {
+      "id": "4f42f078-0813-4770-9b70-89b72aa6b9b4",
+      "email": "ikraanhaashi@gmail.com",
+      "name": "Halima Ali",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-20T11:26:55.056Z",
+      "enrollments": []
+    },
+    {
+      "id": "b1e0026a-a779-419b-8c04-c2b7c4a9cc10",
+      "email": "drs.bushra@gmail.com",
+      "name": "Fatima musse",
+      "phone": "252907426147",
+      "passwordHash": "$2b$10$8XTspcVqPxJRHpRl59D1Xecd4IAgr9NICeIwe1rh4VJN/u5Z/JJsa",
+      "country": "Kenya",
+      "city": "Nairobi",
+      "createdAt": "2026-01-20T12:18:05.872Z",
+      "enrollments": []
+    },
+    {
+      "id": "58e12a73-978a-413e-9ad1-715d8b028d01",
+      "email": "shekeye1420@gmail.com",
+      "name": "Abshir Shekeye",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-20T12:39:35.924Z",
+      "enrollments": []
+    },
+    {
+      "id": "ebf70b76-22ae-4fff-8085-b9567a810efa",
+      "email": "Deqo.Abdi@gmail.com",
+      "name": "Deqo abdi cali",
+      "phone": "252616488326",
+      "passwordHash": "$2b$10$mBR7FL0B2OEN1x8UakumIOdUc8/0ylMB4MbQidgvrprUKGE39NzMi",
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "createdAt": "2026-01-20T12:50:22.189Z",
+      "enrollments": []
+    },
+    {
+      "id": "f796f2bd-2009-4ca2-9489-0ef4f0ecb2ec",
+      "email": "sumayoabdihalim@gmilcom",
+      "name": "Sumaya abdihaliim said",
+      "phone": "2510933825011",
+      "passwordHash": "$2b$10$hKPRTguZ12klZCBJoInLIuSKqV1qefq7QM/AwZfOd.voZP3W.bNiS",
+      "country": "Ethiopia",
+      "city": "Gode",
+      "createdAt": "2026-01-20T13:40:53.226Z",
+      "enrollments": []
+    },
+    {
+      "id": "e986b34c-91c4-44c6-93b3-71eec345b89c",
+      "email": "umuusama055@gmail.com",
+      "name": "ام أسامة وحمزة",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-20T21:09:00.629Z",
+      "enrollments": []
+    },
+    {
+      "id": "7d4f58f9-7000-4184-9cc4-b8bf40b12d83",
+      "email": "sacdiyafaarax151@gmail.com",
+      "name": "Sacda jaamac faarax",
+      "phone": "6413879303",
+      "passwordHash": "$2b$10$FQtdZN2UDQr5NyUuIsuyKeQ9ttai1Mj5eBRhMzxaJ7teLxhFGkVYm",
+      "country": "Usa",
+      "city": "Other",
+      "createdAt": "2026-01-21T00:35:05.322Z",
+      "enrollments": []
+    },
+    {
+      "id": "86695651-9eb0-48a4-ab3a-c13c547965b6",
+      "email": "sundusbile143@gmail.com",
+      "name": "Maryam Abdirizak  cali",
+      "phone": "+252619999632",
+      "passwordHash": "$2b$10$kZX.cgeE5iCAeRpgijaOJO7g0/lkRZ2WAssCysWdGVHEOOIRs17Bi",
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "createdAt": "2026-01-21T03:23:51.150Z",
+      "enrollments": []
+    },
+    {
+      "id": "3b623275-a9b1-4756-8956-7cf2b39ac2af",
+      "email": "amiiraabdiaziiz60@gmail.com",
+      "name": "Amiira Abdiaziiz",
+      "phone": "+2520634607784",
+      "passwordHash": "$2b$10$6qc0ky11SpNZoj4DNcln5u3ako6ZxQPNqNWViKPWbXQMe8LZPkImy",
+      "country": "Somalia",
+      "city": "Hargeisa",
+      "createdAt": "2026-01-21T03:37:52.418Z",
+      "enrollments": []
+    },
+    {
+      "id": "6aa6fcc5-0912-490c-b556-9bdf1ab0e04f",
+      "email": "nasriinmohamedadam@gmail.com",
+      "name": "Noura Mohamed adam",
+      "phone": "00252634842550",
+      "passwordHash": "$2b$10$Bhh2kjCiwkSqcBbWSIc2WOZG3PIX.EJ6Cvns/fCqPNON7VmJhNqou",
+      "country": "Somalia",
+      "city": "Hargeisa",
+      "createdAt": "2026-01-21T05:56:27.800Z",
+      "enrollments": []
+    },
+    {
+      "id": "b556ef27-3c62-446c-a031-728dac43ad99",
+      "email": "maxamedducaaleniciima@gmail.com",
+      "name": "Niciima maxamed ducaale ",
+      "phone": "252634747483",
+      "passwordHash": "$2b$10$lJ7.GhasGIGsqUwd/XvlueQoKsccfQ/zuRDkpcKYobDyqtS4cVRxC",
+      "country": "Somalia",
+      "city": "Hargeisa",
+      "createdAt": "2026-01-21T14:14:47.464Z",
+      "enrollments": []
+    },
+    {
+      "id": "e201a881-3076-4191-9b2d-5c34e5f7220d",
+      "email": "alifarah2029@gmail.com",
+      "name": "Qamar ali farah ",
+      "phone": "+436763827836",
+      "passwordHash": "$2b$10$r8SO2vr1pfJQDMkp6SWIjOl/52gRa5I4fQ2Yux/NpSAKGc.yA5N6K",
+      "country": "Austria",
+      "city": "Vienna",
+      "createdAt": "2026-01-21T18:11:57.677Z",
+      "enrollments": []
+    },
+    {
+      "id": "855f0766-7e8d-40ea-8aa4-1a4f3d264f53",
+      "email": "Ruwaydamuhammad@gmail.com",
+      "name": "Ruwayda Mohamed Ahmed ",
+      "phone": "+2520907369154",
+      "passwordHash": "$2b$10$S3gcinmUmx/HcaoFhUgqQOX6uEVsOl.hTrUgf7c80Avm7bhxHJR66",
+      "country": "Somalia",
+      "city": "Bosaso",
+      "createdAt": "2026-01-21T18:55:27.348Z",
+      "enrollments": []
+    },
+    {
+      "id": "8ec74049-fb0f-401e-8540-abfafdd0cbb2",
+      "email": "raxmaabdirashid505@gmail.com",
+      "name": "Raxma Abdirashid",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-22T05:39:49.211Z",
+      "enrollments": []
+    },
+    {
+      "id": "9e558cb4-dcbd-4703-952b-89c38b5fc5fa",
+      "email": "mrbaabaa82@gmail.com",
+      "name": "Abdiwali Abuukar",
+      "phone": "252617507236",
+      "passwordHash": "",
+      "country": "somalia",
+      "city": "mogadishu",
+      "createdAt": "2026-01-22T10:21:19.543Z",
+      "enrollments": []
+    },
+    {
+      "id": "4d36924e-158f-40ca-bd43-c835fdf0ef6f",
+      "email": "alisiciidoawil@gmail.com",
+      "name": "Siciido Awil Ali",
+      "phone": "254113522466",
+      "passwordHash": "$2b$10$iPTk4Gs.PNV0nsQgR4YJyeR3WF0gWiyuk9YxgexXyIu8yDM2Z6KcK",
+      "country": "Kenya",
+      "city": "Nairobi",
+      "createdAt": "2026-01-22T17:11:03.988Z",
+      "enrollments": []
+    },
+    {
+      "id": "01394394-9874-41a0-af2a-92386431d00e",
+      "email": "alisiciidoawil@gmail",
+      "name": "Siciido awil ali",
+      "phone": "254113522466",
+      "passwordHash": "$2b$10$adcTC1/yJV0b/SXnFour0.hicCYmHyvQ4a4YhtCliZZMb8jbZN/US",
+      "country": "Kenya",
+      "city": "Nairobi",
+      "createdAt": "2026-01-22T17:22:29.490Z",
+      "enrollments": []
+    },
+    {
+      "id": "de354b7d-e1d5-4af0-9e63-7a6705b499a9",
+      "email": "farhiyaawil75@gmail.com",
+      "name": "Farhiya awil huseen",
+      "phone": "+252634374997",
+      "passwordHash": "$2b$10$zvzecLXWU5hqckCTIFyS8.y935z7NYZf58JFXc3xhiSd3mfQwoBPi",
+      "country": "Somalia",
+      "city": "Burao",
+      "createdAt": "2026-01-23T18:38:42.089Z",
+      "enrollments": []
+    },
+    {
+      "id": "58ab82d7-fbbe-4df1-a98f-c9dffa2a744f",
+      "email": "umuusama2@gmail.com",
+      "name": "Umu usama445",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-24T12:25:23.136Z",
+      "enrollments": []
+    },
+    {
+      "id": "1b97d97a-cbcc-4703-867c-6d9e6b4f5d09",
+      "email": "feyruus880@gmail.com",
+      "name": "fardowso duraan",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-25T08:43:26.278Z",
+      "enrollments": []
+    },
+    {
+      "id": "009f845b-835c-45a2-829a-247243810b28",
+      "email": "bishaaroxusein646@gmail.com",
+      "name": "Bishaaro Hussein Ali",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-25T18:00:20.747Z",
+      "enrollments": []
+    },
+    {
+      "id": "5ba1d4c9-2562-4250-beec-7921fdff8df3",
+      "email": "maryuumabukar1@gmail.com",
+      "name": "Maryam Abubakar ",
+      "phone": "0615585931",
+      "passwordHash": "$2b$10$RfTSn4hhIe1RDdcAxuiGL.SU9Ir3ZzqLD26a6XEcyxyyDTlcptQ/q",
+      "country": "somalia",
+      "city": "mogadishu",
+      "createdAt": "2026-01-26T02:45:18.243Z",
+      "enrollments": []
+    },
+    {
+      "id": "7932840c-2aa6-4f1f-bcd2-5476ae972ccd",
+      "email": "ummuxakima@gmail.com",
+      "name": "Hibo Ali Mohamed ",
+      "phone": "+254722624598",
+      "passwordHash": "$2b$10$r.ENIvgKoMs8pe6PFxVgV.S.BFVXAMtUXpZPsFjnHfN4iJyE4fzrq",
+      "country": "Kenya",
+      "city": "Nairobi",
+      "createdAt": "2026-01-26T13:34:40.522Z",
+      "enrollments": []
+    },
+    {
+      "id": "bff86e6b-17ae-4478-b9ad-a0ed8b1fd884",
+      "email": "saidisse75@gmail.com",
+      "name": "Said Isse",
+      "phone": "+252905946868",
+      "passwordHash": "",
+      "country": "somalia",
+      "city": "qardho",
+      "createdAt": "2026-01-26T17:28:29.451Z",
+      "enrollments": [
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "monthly",
+          "accessStart": "2026-01-26T17:53:02.310155",
+          "accessEnd": "2026-03-06T19:00:24.831159"
+        }
+      ]
+    },
+    {
+      "id": "807f128c-2d3b-4836-ac24-c922d6a0ce86",
+      "email": "km495679@gmail.com",
+      "name": "KAAFISO CARAB",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-26T19:24:41.780Z",
+      "enrollments": []
+    },
+    {
+      "id": "90590460-8eac-45cb-8bf5-a2d952a9d022",
+      "email": "ramlahassan145@gmail.com",
+      "name": "Ramlo Ahmed ",
+      "phone": "0046707141834",
+      "passwordHash": "$2b$10$thsnT4TfnH0pfg9sacl44.mS1WgXQF2P2UAMjUWxsMO9OP4fXcIjq",
+      "country": "Sweden",
+      "city": "Other",
+      "createdAt": "2026-01-27T04:36:58.469Z",
+      "enrollments": []
+    },
+    {
+      "id": "7d80f9c9-b58c-4bc9-94c4-42f79a31bb76",
+      "email": "warsan20031@gmail.com",
+      "name": "warsan&waxsan Natural Care",
+      "phone": "252906549113",
+      "passwordHash": "",
+      "country": "somalia",
+      "city": "qardho",
+      "createdAt": "2026-01-27T07:28:13.803Z",
+      "enrollments": [
+        {
+          "courseId": "6-12-bilood",
+          "courseTitle": "6-12 Bilood Jir",
+          "planType": "monthly",
+          "accessStart": "2026-01-27T08:42:31.052753",
+          "accessEnd": "2026-03-06T19:00:24.831159"
+        }
+      ]
+    },
+    {
+      "id": "402442e0-bc8c-4ebf-b642-dfc0c2ecee9c",
+      "email": "ikaraahmed332@gmail.com",
+      "name": "Ikram Ahmed",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-27T10:39:56.249Z",
+      "enrollments": []
+    },
+    {
+      "id": "e4e04af6-971e-48a1-ac8b-518cfe6e3767",
+      "email": "shamsaharun2@gmail.com",
+      "name": "Shamsa Harun",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-27T15:18:28.303Z",
+      "enrollments": []
+    },
+    {
+      "id": "96a35a2f-f8a9-4402-9526-446ac5ec84a4",
+      "email": "naimahamud61@gmail.com",
+      "name": "naima hamud",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-28T06:07:57.731Z",
+      "enrollments": []
+    },
+    {
+      "id": "ff857129-f880-4f6e-a6e5-42c3628960ba",
+      "email": "aminaabdi306758@gmail.com",
+      "name": "Amina Abdi",
+      "phone": "",
+      "passwordHash": "$2b$10$vjpA1/qA512DKhDpI52EgOVxckJgBIdSM098TlADVwJDu6e3EkBfm",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-28T11:36:35.803Z",
+      "enrollments": []
+    },
+    {
+      "id": "e3d1f59d-ddac-4a56-ae43-ebf50daed07a",
+      "email": "canabey786@gmail.com",
+      "name": "Anabey duale",
+      "phone": "06171170767",
+      "passwordHash": "$2b$10$HpRfDHYPJZWv1j3PGK585OzzDMNx11NeuPq.KEruCw287wVZHoqma",
+      "country": "South_africa",
+      "city": "Johannesburg",
+      "createdAt": "2026-01-28T16:57:12.581Z",
+      "enrollments": []
+    },
+    {
+      "id": "82bc2ca3-66dd-4fe5-b640-6feb3f6c0806",
+      "email": "Zainabmohaa631@gmai.com",
+      "name": "Zainab Mohamed ",
+      "phone": "619717987",
+      "passwordHash": "$2b$10$76ui8LfCLyL5Uu77yibPDeZ8bILluBKN0nBEMcJMJTywevgmJKPbS",
+      "country": "Somalia",
+      "city": "Dhobley",
+      "createdAt": "2026-01-28T20:59:13.896Z",
+      "enrollments": []
+    },
+    {
+      "id": "41b5385a-26a3-45eb-aab5-14e5919446a2",
+      "email": "axlaamaxlaam28@gmail.com",
+      "name": "Aamina maxamad",
+      "phone": "+252618555880",
+      "passwordHash": "$2b$10$E2/VfRZLb1TQB4P1KxH/G.5nF8ZLiGb2ovJoT6ccJY.UdOHnWrrUS",
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "createdAt": "2026-01-28T21:48:15.605Z",
+      "enrollments": []
+    },
+    {
+      "id": "8ec6e8b4-cb24-49cb-ad04-5d15e0103d83",
+      "email": "aminacalicabdulahi@gmail.com",
+      "name": "Aamina Cali Cabdulahi ",
+      "phone": "614299049",
+      "passwordHash": "$2b$10$d9NJG4JuwuUxEfcyJin1le6L4LplypN1q21IBs06styZ8toLdbUAC",
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "createdAt": "2026-01-29T04:20:32.887Z",
+      "enrollments": []
+    },
+    {
+      "id": "7ac77fa3-4c77-470e-bee6-585c8de3a676",
+      "email": "xaliimocalidaahir70@gmail.com",
+      "name": "Xaliimo cali daahir",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-29T17:53:48.274Z",
+      "enrollments": []
+    },
+    {
+      "id": "9dd691ea-b734-4308-82ea-ed531ac0cf20",
+      "email": "u3753100817@gmail.com",
+      "name": "Farah Qamar",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-30T14:37:16.563Z",
+      "enrollments": []
+    },
+    {
+      "id": "91180357-1f12-4d6f-a8e6-4dc48c8b3d63",
+      "email": "xawoyusfe09@gmail.com",
+      "name": "Xawo Yusfe",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-30T17:42:42.764Z",
+      "enrollments": []
+    },
+    {
+      "id": "cd1c1f9b-7d28-4272-885d-678518e09355",
+      "email": "kallaha916@gmail.com",
+      "name": "Miski Jama cali",
+      "phone": "00252634397390",
+      "passwordHash": "$2b$10$0mzXZ3cCrMlXvm2ejK1r8OHuCn4cb7xwqy8GS9rh3HvoGM7pPhYS6",
+      "country": "Somalia",
+      "city": "Burao",
+      "createdAt": "2026-01-31T19:05:16.253Z",
+      "enrollments": []
+    },
+    {
+      "id": "c770ee42-432f-4378-8f2e-812b234ea3ad",
+      "email": "cafiifacadra45@gmail.com",
+      "name": "Cafiifa Cadra35",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-01-31T19:07:21.932Z",
+      "enrollments": []
+    },
+    {
+      "id": "b3e5506c-d78e-4665-a83d-a83a5ac351a4",
+      "email": "hudasharif73@gmail.com",
+      "name": "Huda sharif",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-02-01T02:57:46.517Z",
+      "enrollments": []
+    },
+    {
+      "id": "11f1e2b0-2266-4657-a12d-4c73837dda26",
+      "email": "yasminhussein188@gmail.com",
+      "name": "Yasmin Abdirashid Hussein",
+      "phone": "252907323927",
+      "passwordHash": "$2b$10$E.VIgDsZfSO3.Ol3w4mT.ewFzWVRF8GF6Kuw5XMJX5uAmlnNYRir.",
+      "country": "Somalia",
+      "city": "Bosaso",
+      "createdAt": "2026-02-01T09:21:18.822Z",
+      "enrollments": []
+    },
+    {
+      "id": "7ed6e55a-1632-41e3-ba9e-0d431ac57090",
+      "email": "yusufmussesaidawmusse@gmail.com",
+      "name": "Yusuf Musse Said Aw-Musse",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-02-01T09:56:45.902Z",
+      "enrollments": []
+    },
+    {
+      "id": "e53bad7e-45cc-4c37-82b1-1e365e1636b5",
+      "email": "amiiramussesaidawmusse@gmail.com",
+      "name": "Amiira Musse Said Aw-Musse",
+      "phone": "2526729278",
+      "passwordHash": "",
+      "country": "somalia",
+      "city": "qardho",
+      "createdAt": "2026-02-01T10:00:04.366Z",
+      "enrollments": []
+    },
+    {
+      "id": "b0893f67-6f00-487e-b34e-a4124f7f6476",
+      "email": "sumayosagal288@gmail.com",
+      "name": "Sumayo Sagal",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-02-01T18:44:51.405Z",
+      "enrollments": []
+    },
+    {
+      "id": "258922d3-9c0f-4072-a6c6-f0c2e666fa18",
+      "email": "khadrah341@gmail.com",
+      "name": "Khadra",
+      "phone": "254792826499",
+      "passwordHash": "$2b$10$6h8ZeyPFw8qcE6qalC2RlOuoLMcuJ6ts3H6Ad3zhPTYgLkvtvZkBW",
+      "country": "Kenya",
+      "city": "Nairobi",
+      "createdAt": "2026-02-01T18:50:19.026Z",
+      "enrollments": []
+    },
+    {
+      "id": "32f6f11a-833a-463e-9c7e-c28f5159484a",
+      "email": "wcabdid@gmail.com",
+      "name": "Warda cabdi cumar ",
+      "phone": "0634189339",
+      "passwordHash": "$2b$10$pWAKWBGdMwjiKaR8YPYwfuKAvx1q398XOG9GR.GkDtniFh66OgorG",
+      "country": "Somalia",
+      "city": "Hargeisa",
+      "createdAt": "2026-02-01T19:18:00.011Z",
+      "enrollments": []
+    },
+    {
+      "id": "16185e67-66ca-4b68-b821-74f0a41bbb8b",
+      "email": "nashwahnashwaan@gmail.com",
+      "name": "Nashwah",
+      "phone": "0634821115",
+      "passwordHash": "$2b$10$JHEqAFyX4sSvPUhc/LXn.uzvH2djEasjywyTeei2fMa2JKImkS/T2",
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "createdAt": "2026-02-01T20:09:23.571Z",
+      "enrollments": []
+    },
+    {
+      "id": "93e39aa2-f48c-4451-9f16-e9ca1a74b48e",
+      "email": "Sucdihassan8@gmail.com",
+      "name": "Sucdi warsame xasan",
+      "phone": "0708333556",
+      "passwordHash": "$2b$10$PhHGKgp5U8spI4WsgJ3K8OeA6ZruGfnDEcKk8p.539eWkAblrX6oS",
+      "country": "Kenya",
+      "city": "Nairobi",
+      "createdAt": "2026-02-01T20:41:30.812Z",
+      "enrollments": []
+    },
+    {
+      "id": "10bb7ed3-fc8e-4d6e-83bf-75392e363f52",
+      "email": "farahissesaid86@gmail.com",
+      "name": "farax",
+      "phone": "004917684901516",
+      "passwordHash": "$2b$10$lWry5VDmmWz2RVJM6.GG6OQwqHzUIk63tyftdui8.DjaUCq77qDJa",
+      "country": "Germany",
+      "city": "Dusseldorf",
+      "createdAt": "2026-02-01T21:22:54.613Z",
+      "enrollments": []
+    },
+    {
+      "id": "d825a480-16b2-45bd-8cc6-a578636bd7e1",
+      "email": "suadamohamed2016@gmail.com",
+      "name": "Suada Mohamed",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-02-02T05:44:26.068Z",
+      "enrollments": []
+    },
+    {
+      "id": "46cec974-60d0-4b24-8ea0-7a09313e7c9f",
+      "email": "diiriyeyare2024@gmail.com",
+      "name": "Cabdulaahiyare",
+      "phone": "",
+      "passwordHash": "$2b$10$74fsXYEWDQlyVuIt7FDJduMQbzhgmQybl9hI1J5rq2BUfG3GNzcX2",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-02-02T06:06:53.683Z",
+      "enrollments": []
+    },
+    {
+      "id": "f279b029-de5b-43a3-9f9d-7814b0354e63",
+      "email": "zamzamcurtains769@gmail.com",
+      "name": "zamzam curtains",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-02-02T06:15:13.475Z",
+      "enrollments": []
+    },
+    {
+      "id": "5a251fbd-1ecc-4bc3-8ab2-84db90ddb8f7",
+      "email": "anisogeenyomaxamuud@gmail.com",
+      "name": "ANISO geenyo Maxamuud",
+      "phone": "",
+      "passwordHash": "$2b$10$f2u2WilCgT0nP.kIAlcHIe0iXvrkEW7YU2d.Cq.iMapS0X7oiE876",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-02-02T07:33:11.450Z",
+      "enrollments": [
+        {
+          "courseId": "6-12-bilood",
+          "courseTitle": "6-12 Bilood Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T16:22:11.961918",
+          "accessEnd": "2027-02-05T16:22:10.678"
+        },
+        {
+          "courseId": "1-2-sano",
+          "courseTitle": "1-2 Sano Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T16:22:12.35393",
+          "accessEnd": "2027-02-05T16:22:10.678"
+        },
+        {
+          "courseId": "2-4-sano",
+          "courseTitle": "2-4 Sano Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T16:22:12.749998",
+          "accessEnd": "2027-02-05T16:22:10.678"
+        },
+        {
+          "courseId": "4-7-sano",
+          "courseTitle": "4-7 Sano Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T16:22:13.144798",
+          "accessEnd": "2027-02-05T16:22:10.678"
+        },
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T16:22:13.536668",
+          "accessEnd": "2027-02-05T16:22:10.678"
+        },
+        {
+          "courseId": "caqli-sare",
+          "courseTitle": "Koorsada Ilmo Caqli Sare leh",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T16:22:13.931651",
+          "accessEnd": "2027-02-05T16:22:10.678"
+        },
+        {
+          "courseId": "autism",
+          "courseTitle": "Koorsada Ilmaha Hadalka ka soo Daaho",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T16:22:14.328789",
+          "accessEnd": "2027-02-05T16:22:10.678"
+        },
+        {
+          "courseId": "aabe-baraarugay",
+          "courseTitle": "Koorsada Aabe Baraarugay",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T16:22:14.72218",
+          "accessEnd": "2027-02-05T16:22:10.678"
+        },
+        {
+          "courseId": "xalinta-khilaafka",
+          "courseTitle": "Koorsada Badqabka Qoyska iyo Xalinta Khilaafka",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T16:22:15.11435",
+          "accessEnd": "2027-02-05T16:22:10.678"
+        },
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T16:22:11.371038",
+          "accessEnd": "2027-02-05T16:22:10.678"
+        }
+      ]
+    },
+    {
+      "id": "9ea467e5-6749-4bca-9b90-02a94401fa33",
+      "email": "fadumomoha37@gmail.com",
+      "name": "Faadumo Mohamed",
+      "phone": "",
+      "passwordHash": "$2b$10$S2pugzcVcxys/WLsnince.8M6rGNbtR42mVUMee/eiHnB2.MoF/8y",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-02-02T07:39:41.278Z",
+      "enrollments": []
+    },
+    {
+      "id": "30aaab90-a905-43c5-8659-a2c38257c914",
+      "email": "abuabdurahman047@gmail.com",
+      "name": "Bashir Hashin ",
+      "phone": "0915187021",
+      "passwordHash": "$2b$10$OBjkliOcoVUvD.pNh8mVm.3jBo/GW3MJZznFaYXBQlAVN6yNmqhc6",
+      "country": "Ethiopia",
+      "city": "Jigjiga",
+      "createdAt": "2026-02-02T16:00:47.008Z",
+      "enrollments": []
+    },
+    {
+      "id": "9b804aea-785c-49ed-95c4-096392e0f28a",
+      "email": "idilcabdirashiid29@gmail.com",
+      "name": "Idil Cabdirashiid",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-02-02T16:50:39.415Z",
+      "enrollments": []
+    },
+    {
+      "id": "1287f13a-241c-4279-af85-95475aeedb7c",
+      "email": "mohay.nasri49@gmail.com",
+      "name": "Ahlam",
+      "phone": "+4917631476231",
+      "passwordHash": "$2b$10$y5QGVy9q66qPe1B861meW.hNkQJdMjn1QOy5GJup8HlH4N5DwP12W",
+      "country": "Germany",
+      "city": "Frankfurt",
+      "createdAt": "2026-02-05T01:16:20.067Z",
+      "enrollments": []
+    },
+    {
+      "id": "b088cbb3-3d34-4a7f-87df-f9c327c628af",
+      "email": "kureshmohamed3@gmail.com",
+      "name": "Kuresh Abdinour",
+      "phone": "5024072842",
+      "passwordHash": "$2b$10$uQzElvhMKSkC8IF03PY3VenpmiL4UZe0303hyj0EjDztOuT5SaS9C",
+      "country": "Usa",
+      "city": "Minneapolis",
+      "createdAt": "2026-02-05T02:59:38.666Z",
+      "enrollments": [
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T17:27:50.988",
+          "accessEnd": "2028-02-05T17:27:30.539"
+        },
+        {
+          "courseId": "6-12-bilood",
+          "courseTitle": "6-12 Bilood Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T17:27:53.939",
+          "accessEnd": "2028-02-05T17:27:30.539"
+        },
+        {
+          "courseId": "1-2-sano",
+          "courseTitle": "1-2 Sano Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T17:27:55.719",
+          "accessEnd": "2028-02-05T17:27:30.539"
+        },
+        {
+          "courseId": "2-4-sano",
+          "courseTitle": "2-4 Sano Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T17:27:57.528",
+          "accessEnd": "2028-02-05T17:27:30.539"
+        },
+        {
+          "courseId": "4-7-sano",
+          "courseTitle": "4-7 Sano Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T17:27:59.313",
+          "accessEnd": "2028-02-05T17:27:30.539"
+        },
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T17:28:00.335",
+          "accessEnd": "2028-02-05T17:27:30.539"
+        },
+        {
+          "courseId": "caqli-sare",
+          "courseTitle": "Koorsada Ilmo Caqli Sare leh",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T17:28:02.532629",
+          "accessEnd": "2028-02-05T17:27:30.539"
+        },
+        {
+          "courseId": "autism",
+          "courseTitle": "Koorsada Ilmaha Hadalka ka soo Daaho",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T17:28:03.826205",
+          "accessEnd": "2028-02-05T17:27:30.539"
+        },
+        {
+          "courseId": "aabe-baraarugay",
+          "courseTitle": "Koorsada Aabe Baraarugay",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T17:28:05.047458",
+          "accessEnd": "2028-02-05T17:27:30.539"
+        },
+        {
+          "courseId": "xalinta-khilaafka",
+          "courseTitle": "Koorsada Badqabka Qoyska iyo Xalinta Khilaafka",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T17:28:06.359405",
+          "accessEnd": "2028-02-05T17:27:30.539"
+        }
+      ]
+    },
+    {
+      "id": "f51c775e-46a9-467d-b1a0-087020d618d9",
+      "email": "nuurofaarax742@gmail.com",
+      "name": "Miski siciid",
+      "phone": "+252906886084",
+      "passwordHash": "$2b$10$eTgsMNG7pF0AsP/lfnCsOuIFK54RcMq0iNqIlKQ85n6XXQZkAgi9.",
+      "country": "Somalia",
+      "city": "Gaalkacyo",
+      "createdAt": "2026-02-05T09:54:47.903Z",
+      "enrollments": [
+        {
+          "courseId": "6-12-bilood",
+          "courseTitle": "6-12 Bilood Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T12:35:35.362927",
+          "accessEnd": "2027-02-05T10:03:06.889"
+        },
+        {
+          "courseId": "0-6-bilood",
+          "courseTitle": "0-6 Bilood Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T10:03:17.633121",
+          "accessEnd": "2027-02-05T10:03:06.889"
+        },
+        {
+          "courseId": "1-2-sano",
+          "courseTitle": "1-2 Sano Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T12:35:35.362927",
+          "accessEnd": "2027-02-05T10:03:06.889"
+        },
+        {
+          "courseId": "2-4-sano",
+          "courseTitle": "2-4 Sano Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T12:35:35.362927",
+          "accessEnd": "2027-02-05T10:03:06.889"
+        },
+        {
+          "courseId": "4-7-sano",
+          "courseTitle": "4-7 Sano Jir",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T12:35:35.362927",
+          "accessEnd": "2027-02-05T10:03:06.889"
+        },
+        {
+          "courseId": "ilmo-is-dabira",
+          "courseTitle": "Koorsada Ilmo Is-Dabira",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T12:35:35.362927",
+          "accessEnd": "2027-02-05T10:03:06.889"
+        },
+        {
+          "courseId": "caqli-sare",
+          "courseTitle": "Koorsada Ilmo Caqli Sare leh",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T12:35:35.362927",
+          "accessEnd": "2027-02-05T10:03:06.889"
+        },
+        {
+          "courseId": "autism",
+          "courseTitle": "Koorsada Ilmaha Hadalka ka soo Daaho",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T12:35:35.362927",
+          "accessEnd": "2027-02-05T10:03:06.889"
+        },
+        {
+          "courseId": "aabe-baraarugay",
+          "courseTitle": "Koorsada Aabe Baraarugay",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T12:35:35.362927",
+          "accessEnd": "2027-02-05T10:03:06.889"
+        },
+        {
+          "courseId": "xalinta-khilaafka",
+          "courseTitle": "Koorsada Badqabka Qoyska iyo Xalinta Khilaafka",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T12:35:35.362927",
+          "accessEnd": "2027-02-05T10:03:06.889"
+        }
+      ]
+    },
+    {
+      "id": "b0e62f98-143f-4552-bcb4-245766f18a3a",
+      "email": "suleimanabdi317@gmail.com",
+      "name": "Suleiman Hussein",
+      "phone": "6124425890",
+      "passwordHash": "$2b$10$aEc9MGWIK8KUUJuJv4CkROSB2as9y3gUVu.aW0VYjLEp2XQKI.Xzu",
+      "country": "Usa",
+      "city": "Minneapolis",
+      "createdAt": "2026-02-05T19:38:28.977Z",
+      "enrollments": [
+        {
+          "courseId": "all-access",
+          "courseTitle": "All-Access Subscription",
+          "planType": "yearly",
+          "accessStart": "2026-02-05T19:45:23.130714",
+          "accessEnd": "2027-02-05T19:45:23.02"
+        }
+      ]
+    },
+    {
+      "id": "440e0aa6-07e4-45d9-8fc2-f83f07ad4b79",
+      "email": "faysalce2026@gmail.com",
+      "name": "Faysal Ceelaabe Buux ",
+      "phone": "915069319",
+      "passwordHash": "$2b$10$BirUI2/OjAWm/s58I6asx.QIds1sGmlj1aMVrgyqKlyR9MAJ.m/yG",
+      "country": "Ethiopia",
+      "city": "Jigjiga",
+      "createdAt": "2026-02-06T13:51:02.018Z",
+      "enrollments": []
+    },
+    {
+      "id": "99142b99-40fb-49dd-83be-1aa36fcb0b43",
+      "email": "hamdiqalif86078@gmail.com",
+      "name": "Hamdi Khalif",
+      "phone": "+4917663116432",
+      "passwordHash": "$2b$10$XV0qR5eXx57OKZkZxWkUte8QaQgvcmVR64gPCcL4wcNt12QkvruJK",
+      "country": "Germany",
+      "city": "Other",
+      "createdAt": "2026-02-06T20:44:24.991Z",
+      "enrollments": []
+    },
+    {
+      "id": "d540750c-c91c-466c-8576-1cc95ae4cc6c",
+      "email": "safacali707@gmail.com",
+      "name": "Safa cali",
+      "phone": "0634282401",
+      "passwordHash": "$2b$10$byx30phCzcKi.EUTtmMIXOPqSA9mio7xNgW.tyU2J8UqBD81RAdnG",
+      "country": "Somalia",
+      "city": "Laascaanood",
+      "createdAt": "2026-02-07T17:13:15.713Z",
+      "enrollments": []
+    },
+    {
+      "id": "dc28ea9c-4387-4fac-84a8-69837d5cd13a",
+      "email": "HaniAhaldhaa@gmail.com",
+      "name": "Hani Ahmed",
+      "phone": "0615215775",
+      "passwordHash": "$2b$10$xwv2sJHH0hgsqPqC4iZG1ujM.oEsIHS7UQdQBriphk3aXOw8ZKkKG",
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "createdAt": "2026-02-08T17:55:15.743Z",
+      "enrollments": []
+    },
+    {
+      "id": "b3ade94f-8f33-4854-9bc8-339e7e6e4b20",
+      "email": "bahjabella99@gmail.com",
+      "name": "bahja bilan",
+      "phone": "+2520636648478",
+      "passwordHash": "",
+      "country": "somalia",
+      "city": "hargeisa",
+      "createdAt": "2026-02-08T19:37:52.069Z",
+      "enrollments": []
+    },
+    {
+      "id": "781deda8-ed64-4f0c-aa2d-8ffa6eaefb54",
+      "email": "fatimaahmedcismaan6767@gmail.com",
+      "name": "Fatima Ahmed cismaan",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-02-08T19:48:56.339Z",
+      "enrollments": []
+    },
+    {
+      "id": "afd9422f-00c4-4c95-adfe-2a1cca9f3f13",
+      "email": "monalisajj@gmail.com",
+      "name": "Muna Jamal Jama",
+      "phone": "00252634106534",
+      "passwordHash": "$2b$10$SQqqHJNNChHyxWFJZHjto.KI7bJ05Qh3w/fTXmqTazuIZ9u8IdEZS",
+      "country": "Somalia",
+      "city": "Hargeisa",
+      "createdAt": "2026-02-09T02:08:58.194Z",
+      "enrollments": []
+    },
+    {
+      "id": "9eaa721d-7c00-4146-87a7-24e89a8efa88",
+      "email": "Qadanabdi95@gmail.com",
+      "name": "Faadumo c/raxmaan saalax ",
+      "phone": "0634375744",
+      "passwordHash": "$2b$10$jfS0NBHx9T51ywEuJ1GiWOGNoYUg9LmxBYo15wUhl3FlTYHy9n06u",
+      "country": "Somalia",
+      "city": "Hargeisa",
+      "createdAt": "2026-02-09T06:14:36.663Z",
+      "enrollments": []
+    },
+    {
+      "id": "2a8540b6-8bc3-4cd7-bd8a-fc04277a7b9a",
+      "email": "hasnaabdiibrahim506@gmail.com",
+      "name": "Hasna abdi ibrahim ",
+      "phone": "25377834341",
+      "passwordHash": "$2b$10$IPMFchL1T0hTXztDOVFNNOpEwiXJM3/8Sw5bxW5mA9/njUHhLJ16.",
+      "country": "Djibouti",
+      "city": "Djibouti_city",
+      "createdAt": "2026-02-09T08:21:42.660Z",
+      "enrollments": []
+    },
+    {
+      "id": "8a1df914-c350-4132-95dd-efef208166c4",
+      "email": "hodanhappy6@gmail.com",
+      "name": "hodan mohamed",
+      "phone": "",
+      "passwordHash": "",
+      "country": "",
+      "city": "",
+      "createdAt": "2026-02-09T09:18:25.859Z",
+      "enrollments": []
+    },
+    {
+      "id": "3aa994be-3728-4c82-9316-effa8866929f",
+      "email": "hanieidid12@gmail.com",
+      "name": "Hani aidid ",
+      "phone": "+4917632685451",
+      "passwordHash": "$2b$10$3p8Y/xvW2KInt9WRoa.CeOVCQKHSXxst28FwkfMcgMpBcZKwc5SsS",
+      "country": "Germany",
+      "city": "Munich",
+      "createdAt": "2026-02-09T11:37:28.067Z",
+      "enrollments": []
+    }
+  ]
+}
