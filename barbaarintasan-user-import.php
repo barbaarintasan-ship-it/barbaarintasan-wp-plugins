@@ -1,10 +1,9 @@
 <?php
 /**
- * Plugin Name: Barbaarintasan User Import
- * Description: Import users from Barbaarintasan Academy app JSON export into WordPress + Tutor LMS.
+ * BSA User Import - WordPress + Tutor LMS import
+ * Included by barbaarintasan.php main plugin
+ * Import users from Barbaarintasan Academy app JSON export into WordPress + Tutor LMS.
  *              Preserves bcrypt passwords via legacy_bcrypt usermeta for seamless first login.
- * Version: 1.0.0
- * Author: Barbaarintasan Academy
  *
  * USAGE:
  * 1. Upload the JSON export file from app admin (/api/admin/export-users-wp)

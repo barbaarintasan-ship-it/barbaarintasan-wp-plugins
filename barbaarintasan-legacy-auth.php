@@ -1,11 +1,7 @@
 <?php
 /**
- * Plugin Name: Barbaarintasan Legacy Auth
- * Description: Seamless bcrypt password migration from Barbaarintasan Academy app to WordPress.
- *              Allows imported users to login with their existing app passwords.
- *              On first login, bcrypt hash is verified and converted to WordPress native format.
- * Version: 1.0.0
- * Author: Barbaarintasan Academy
+ * BSA Legacy Auth - bcrypt password migration
+ * Included by barbaarintasan.php main plugin
  */
 
 if (!defined('ABSPATH')) {
