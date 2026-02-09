@@ -34,9 +34,6 @@ function bsa_sync_verify_api_key($request) {
     return hash_equals($expected, $api_key);
 }
 
-/**
- * App → WordPress: Create WordPress user when someone registers in the app
- */
 function bsa_sync_user_from_app($request) {
     $params = $request->get_json_params();
     
@@ -108,9 +105,6 @@ function bsa_sync_user_from_app($request) {
     ), 201);
 }
 
-/**
- * WordPress → App: Notify app when someone registers on the website
- */
 add_action('user_register', 'bsa_sync_user_to_app', 10, 2);
 
 function bsa_sync_user_to_app($user_id, $userdata = null) {
@@ -164,9 +158,6 @@ function bsa_sync_user_to_app($user_id, $userdata = null) {
     }
 }
 
-/**
- * Admin settings page for API key
- */
 add_action('admin_menu', 'bsa_sync_admin_menu');
 
 function bsa_sync_admin_menu() {
